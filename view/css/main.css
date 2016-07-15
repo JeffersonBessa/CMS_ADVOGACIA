@@ -34,6 +34,18 @@ header{
     width: 100%;
     background-color: #586474;
 }
+.btn-logar{
+    float: right;
+    background-color: #f0f8ff;
+    padding: 5px 10px 5px 10px;
+    border-radius: 5px;
+    color: #2C3E50;
+    font-weight: 700;
+}
+.btn-logar:hover{
+    background-color: #2C3E50;
+    color: #f0f8ff;
+}
 header h1{
     float: left;
     padding-top: 15px;
